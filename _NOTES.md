@@ -6,3 +6,8 @@
 
 # Tutorial
 * https://storybook.js.org/tutorials/intro-to-storybook/react/en/get-started/
+
+# Notes
+
+## Component-Driven Development (CDD)
+[Component-Driven Development](https://www.componentdriven.org/) (CDD) methodology. It’s a process that builds UIs from the “bottom-up”, starting with components and ending with screens.
